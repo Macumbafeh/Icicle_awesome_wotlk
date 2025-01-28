@@ -1,5 +1,5 @@
 # Icicle_awesome_wotlk
-Adds enemy cooldowns to their nameplates for 3.3.5
+Adds enemy cooldowns to their nameplates for 3.3.5 with awesome_wotlk patch
 
 /icicle or ingame menu for options.
 
